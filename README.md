@@ -1,6 +1,6 @@
 # pkg-installer
 
-[![NPM version](https://img.shields.io/npm/v/pkg-installer?color=a1b858&label=)](https://www.npmjs.com/package/pkg-installer)
+[![NPM version](https://img.shields.io/npm/v/pkg-installer?color=a1b858)](https://www.npmjs.com/package/pkg-installer)
 
 Install package programmatically. Detect package managers automatically (npm, yarn, bun and pnpm).
 ## 🦄️ Usage
