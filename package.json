@@ -1,6 +1,6 @@
 {
   "name": "pkg-installer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@7.12.0",
   "description": "Install package programmatically.",
   "author": "Joruno-w",
@@ -14,7 +14,13 @@
   "bugs": {
     "url": "https://github.com/antfu/pkg-installer/issues"
   },
-  "keywords": ["scripts","installer","Install","pkg","package"],
+  "keywords": [
+    "scripts",
+    "installer",
+    "Install",
+    "pkg",
+    "package"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
