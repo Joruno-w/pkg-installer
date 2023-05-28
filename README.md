@@ -10,7 +10,7 @@ npm i pkg-installer
 ```
 
 ```ts
-import { installPackage } from '@antfu/install-pkg'
+import { installPackage } from 'pkg-installer'
 
 await installPackage('vite', { silent: true })
 ```

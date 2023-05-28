@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/antfu/pkg-installer/issues"
   },
-  "keywords": [],
+  "keywords": ["scripts","installer","Install","pkg","package"],
   "sideEffects": false,
   "exports": {
     ".": {
